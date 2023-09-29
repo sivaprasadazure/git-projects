@@ -1,3 +1,0 @@
-This is master.txt on master branch
-
-#Now, edited on private branch
